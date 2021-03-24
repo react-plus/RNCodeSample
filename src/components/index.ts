@@ -1,2 +1,2 @@
-export {default as Button} from './Button';
-export {default as Input} from './Forms/Input';
+export {default as Button} from './atoms/Button';
+export {default as Input} from './molecules/Forms/Input';
