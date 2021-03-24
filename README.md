@@ -26,5 +26,7 @@
 ### `npx pod-install`
 ### `npx react-native run-ios`
 
-![alt text](https://github.com/react-plus/RNCodeSample/blob/master/images/login.png?raw=true)
-![alt text](https://github.com/react-plus/RNCodeSample/blob/master/images/login_error.png?raw=true)
+<p align="center">
+  <img src="https://github.com/react-plus/RNCodeSample/blob/master/images/login.png?raw=true" width="350" title="">
+  <img src="https://github.com/react-plus/RNCodeSample/blob/master/images/login_error.png?raw=true" width="350" alt="">
+</p>
