@@ -15,12 +15,16 @@
 - [x] [Redux](https://redux.js.org/)
 - [x] [Redux toolkit](https://redux-toolkit.js.org/)
 - [x] [Formik](https://formik.org/)
-- [x] [Yup](https://github.com/jquense/yup)
+- [x] [Yup](https://github.com/jquense/yup/)
 
 ### Linting
 
 - [x] [ESLint](https://eslint.org/)
 - [x] [Prettier](https://prettier.io/)
+
+### Testing
+
+- [x] [Detox](https://github.com/wix/Detox/)
 
 
 ## Available Scripts
