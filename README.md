@@ -38,5 +38,5 @@
 ### E2E test result
 
 <p align="center">
-  <img src="https://github.com/react-plus/RNCodeSample/blob/master/images/e2e_test_result.png?raw=true" width="450" title="">
+  <img src="https://github.com/react-plus/RNCodeSample/blob/master/images/e2e_test_result.png?raw=true" width="850" title="">
 </p>
