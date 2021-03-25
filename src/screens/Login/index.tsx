@@ -28,6 +28,7 @@ const LoginScreen: React.FC<Props> = ({navigation}) => {
 
   return (
     <ScrollView
+      testID="login"
       showsVerticalScrollIndicator={false}
       contentContainerStyle={styles.scrollContainer}
       keyboardShouldPersistTaps="handled"
@@ -46,11 +47,13 @@ const LoginScreen: React.FC<Props> = ({navigation}) => {
               placeholder="Enter email"
               autoCapitalize="none"
               keyboardType="email-address"
+              testID="inputEmail"
             />
             <Input
               name="password"
               secureTextEntry
               placeholder="Enter password"
+              testID="inputPassword"
             />
             <Button
               label="SignIn"
@@ -58,6 +61,7 @@ const LoginScreen: React.FC<Props> = ({navigation}) => {
               isLoading={loading}
               disabled={loading}
               containerStyle={styles.submit}
+              testID="btnSubmit"
             />
           </View>
         )}
